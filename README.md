@@ -31,6 +31,7 @@ QueueCare 26 is a premium, full-stack, real-time patient triage and queue optimi
 
 - **Frontend**: React 19 + TypeScript + Tailwind CSS v4 + React Router + `motion/react` + Recharts + `qrcode.react` + Lucide icons.
 - **Backend / Real-time**: Node.js + Express + Socket.IO + `tsx` dev runner + `esbuild` production bundler.
+- **database**:Mongodb Atlas.
 - **Persistence**: Clean, data-isolated clean repository layer storing records `In-Memory` with explicit `// TODO: replace with database` markers, facilitating a seamless database plug-in later.
 
 ---
